@@ -1,0 +1,1 @@
+Team Name :Team C Members: Menna Allah Walid, Omnia Magdy, Aya Mohamed, Abdullah Samir, Mahmoud Zohir Head: Eng Adnan Season:24 IEEE Branch: BUB BU Short Description: The player controls a long thin creature resembling a snake which roams around a map picking up food (or some other item) trying to avoid hitting its own tail or the edges of the playing area.
